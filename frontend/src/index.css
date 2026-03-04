@@ -17,3 +17,27 @@ code {
 .footer-links {
   font-size: 12px;
 }
+
+#support-hero {
+  background-color: rgb(56,126,209);
+  color: white;
+}
+
+#support-hero a {
+  color: white;
+}
+
+#support-hero-content {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 28px;
+}
+
+#support-hero input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+
+}
